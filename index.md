@@ -15,5 +15,5 @@ Modern global dynamics shift rapidly due to continuous geopolitical change in po
 # Dataset
 ----------
 
-The dataset that we used for this project is sourced from Kaggle
+The dataset that we used for this project is sourced from [Kaggle](https://www.kaggle.com/joniarroba/65-world-indexes-gathered) and is a dataset composed of 65 indices on countries around the world. Indices include GDP, HDI, GINI, and other economic and social indicators for each country. 
 
