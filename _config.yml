@@ -1,2 +1,3 @@
 theme: jekyll-theme-midnight
 title: "CS 4641 Group Project"
+markdown: kramdown
