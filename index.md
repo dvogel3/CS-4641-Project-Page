@@ -30,7 +30,20 @@ Ultimately, we try to optimize the objective function for K-Means which is:
 
 The dataset that we used for this project is sourced from [Kaggle](https://www.kaggle.com/joniarroba/65-world-indexes-gathered). It is a dataset composed of 65 indices on countries around the world, primarily taken from the World Bank, UNICEF, NATO, and other reputable sources. Indices include Gross Domestic Product, Human Development Index, GINI coefficient, and other economic and social indicators for each country. The dataset creators note that data that is not available is estimated using a kNN approach. Furthermore, it should be noted that some of these indicies are self-reported from the countries of interest. It's well known that several countries in this dataset do not accurately report statistics that reflect the true state of the country, however, most of the data comes from third-party, unbiased sources that seek to improve the world for its citizens.
 
+# Key Indicators and Terms
+---------
+There are some important global indicators that are used in our dataset that are relevant to point out:
+
+1. **Human Development Index (HDI):** HDI is a measurement of human development, often framed in terms of whether people are able to "be" and "do" desirable things in life. Examples include being well fed, having shelter, being healthy, as well as having the ability to do work, have education, and participate in voting. A country scores a higher HDI when expected lifespan is higher, the mean education level is higher, and the gross national income GNI (PPP) per capita is higher.
+
+2. **GINI:** The GINI coefficient is a measure of statistical dispersion intended to represent the income or wealth distribution of a nation's residents, and is the most commonly used measurement of inequality. A higher GINI coefficient indicates a higher disparity in income distribution.
+
+3. **Gross Domestic Product (GDP):** The OECD defines GDP as "an aggregate measure of production equal to the sum of the gross values added of all resident and institutional units engaged in production and services (plus any taxes, and minus any subsidies, on products not included in the value of their outputs)." GDP is essential in measuring a country's economic power.
+
+
 # Visualization
 ------------
 ![GINI vs. HDI](/Clustering_Images/ginix_hdiy.png)
 Figure 1: GINI coefficient vs. Human Development Index
+
+![HDI vs. Electrification Rate](/Clustering_Images/HDI_Electricity.png)
