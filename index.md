@@ -50,13 +50,13 @@ There are some important global indicators that are used in our dataset that are
 **Figure 2: HDI vs. % of population that have electricity**
 
 ![HDI vs. Domestic Food Price](/Clustering_Images/HDI_FoodPrice.png)
-**Figure 5: Human Development Index vs. Domestic Food Price Index**
+**Figure 3: Human Development Index vs. Domestic Food Price Index**
 
 ![GDP Per Capita vs. Prison Population for 100k persons](/Clustering_Images/GDPPP_Prison.png)
-**Figure 3: GDP Per Capita (in USD) vs. Prison Population of Every 100k Persons**
+**Figure 4: GDP Per Capita (in USD) vs. Prison Population of Every 100k Persons**
 
 ![Gini vs. Primary School Dropout Rate](/Clustering_Images/Gini_primaryschool.png)
-**Figure 4: GINI coefficient vs. Primary School Dropout Rate**
+**Figure 5: GINI coefficient vs. Primary School Dropout Rate**
 
 ![HDI vs. Foreign Investment](/Clustering_Images/HDI_Foreign_investment.png)
-**Figure 5: Human Development Index vs. Foreign Investment into Country as % of GDP**
+**Figure 6: Human Development Index vs. Foreign Investment into Country as % of GDP**
