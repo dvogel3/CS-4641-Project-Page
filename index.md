@@ -51,3 +51,6 @@ There are some important global indicators that are used in our dataset that are
 
 ![GDP Per Capita vs. Prison Population for 100k persons](/Clustering_Images/GDPPP_Prison.png)
 **Figure 3: GDP Per Capita (in USD) vs. Prison Population of Every 100k Persons**
+
+![Gini vs. Primary School Dropout Rate](/Clustering_Images/Gini_primaryschool.png)
+**Figure 4: GINI coefficient vs. Primary School Dropout Rate**
