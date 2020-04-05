@@ -76,7 +76,7 @@ GDP per capita is a great indicator of the standard of living, and by consequenc
 
 Social and domestic policy also refers to those who maintains the government for each of these countries. Countries clustered in the purple group, for the most part, are within the African continent - a region of the world plagued with economic, political, and social upheaval. Many countries and NGOs have given foreign aid to many of these countries in the purple cluster (i.e. Central African Republic, Somalia, DRC, etc.) but these countries are extremely corrupt so most of the foreign aid doesn't go to the benefit of the citizens of the country, nor the development of infrastructure, schools, etc. Many efforts have been undertaken to root out these corrupt governments, but the problems still persist today.
 
-Below is an interactive map that shows the perceived corruption in the world, produced annually by Transparency International.
+Below is an interactive map that shows the perceived corruption in the world, produced annually by Transparency International. You can read more about it [here](https://www.transparency.org/cpi2019).
 
 <div class="cpi-node" data-embed="map"></div><script src="https://www.transparency.org/assets/scripts/cpi2019/embed.js"></script>
 
