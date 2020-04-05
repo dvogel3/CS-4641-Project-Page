@@ -48,3 +48,6 @@ There are some important global indicators that are used in our dataset that are
 
 ![HDI vs. Electrification Rate](/Clustering_Images/HDI_Electricity.png)
 **Figure 2: HDI vs. % of population that have electricity**
+
+![GDP Per Capita vs. Prison Population for 100k persons](/Clustering_Images/GDPPP_Prison.png)
+**Figure 3: GDP Per Capita (in USD) vs. Prison Population of Every 100k Persons**
