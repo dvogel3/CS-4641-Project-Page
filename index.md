@@ -44,7 +44,7 @@ There are some important global indicators that are used in our dataset that are
 # Visualization
 ------------
 ![GINI vs. HDI](/Clustering_Images/ginix_hdiy.png)
-Figure 1: GINI coefficient vs. Human Development Index
+**Figure 1: GINI coefficient vs. Human Development Index**
 
 ![HDI vs. Electrification Rate](/Clustering_Images/HDI_Electricity.png)
-Figure 2: HDI vs. % of population that have electricity
+**Figure 2: HDI vs. % of population that have electricity**
