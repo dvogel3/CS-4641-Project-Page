@@ -68,4 +68,5 @@ There are some important global indicators that are used in our dataset that are
 
 We split our analysis and discussion of the most interesting clusterings, into 4 categories: Access to Resources, Social and Domestic Policy, Education, and Commitment to Globalization.
 
-##### Access to Resources
+#### Access to Resources
+<div class="cpi-node" data-embed="map"></div><script src="https://www.transparency.org/assets/scripts/cpi2019/embed.js"></script>
