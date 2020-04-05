@@ -60,3 +60,8 @@ There are some important global indicators that are used in our dataset that are
 
 ![HDI vs. Foreign Investment](/Clustering_Images/HDI_Foreign_investment.png)
 **Figure 6: Human Development Index vs. Foreign Investment into Country as % of GDP**
+
+# Discussion
+-----
+>"Not everything that is faced can be changed, but nothing can be changed until it is faced." 
+> -James Baldwin
