@@ -65,3 +65,7 @@ There are some important global indicators that are used in our dataset that are
 -----
 >"Not everything that is faced can be changed, but nothing can be changed until it is faced." 
 > -James Baldwin
+
+We split our analysis and discussion of the most interesting clusterings, into 4 categories: Access to Resources, Social and Domestic Policy, Education, and Commitment to Globalization.
+
+##### Access to Resources
