@@ -30,4 +30,5 @@ The dataset that we used for this project is sourced from [Kaggle](https://www.k
 
 # Visualization
 ------------
-
+![GINI vs. HDI](/Clustering_Images/ginix_hdiy.png)
+Figure 1: GINI coefficient vs. Human Development Index
