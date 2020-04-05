@@ -20,6 +20,7 @@ Given an initial set of k centroids, the algorithm repeats the following process
 2. **Update Step:** After assigning each observation/data point to a cluster, recalculate the centroids based on the assignment step.
 
 Ultimately, we try to optimize the objective function for K-Means which is:
+
 ![Objective Equation](/Clustering_Images/Kmeans_objective_equation.png)
 
 # Dataset
