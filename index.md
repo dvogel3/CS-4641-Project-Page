@@ -88,3 +88,10 @@ Figure 6 clusters countries by incoming foreign investment as a percentage of GD
 
 # Conclusions
 We set out to use K-Means clustering to analyze world data to understand trends that make or break countries. We do not intend to suggest policy but rather illuminate perennial problems in countries that continue to struggle. We identified 4 common trends that seem to continually challenge underdeveloped countries - those same trends strengthen the most developed countries. In an effort to prevent further stratification and to promote a more connected, globalized world concerned about each and every human, we suggest focusing on the following: Access to Resources, Social and Domestic Policy (in particular, government corruption and citizen imprisonment), Education, and Commitments to Globalization. A well-developed country should ensure its citizens have access to basic fundamental resources (electricity, food), should strive to have equitable social and domestic policies that benefit every citizen, should ensure all citizens have an equal opportunity to receive an education, and should further contribute to the world so that other countries may prosper. Global development is a grandiose challenge that continues to perplex even the most developed countries; but it's a challenge that will continually improve the human condition.
+
+# Contributing Members:
+1) Grant Champagne
+2) Nick Cich
+3) Brando De Courten
+4) Alexander George-Kennedy
+5) Zack Vogel
